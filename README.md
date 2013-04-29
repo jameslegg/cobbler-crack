@@ -1,4 +1,4 @@
-Z
+cobbler-crack.py
 ================
 
 A tiny little replacment for the ENC in cobbler that parses the default json seralized files and produces the same output as cobblers built in ENC.
